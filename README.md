@@ -1,6 +1,6 @@
 # Análise de dados da NETFLIX
 
-![banner (1)](https://user-images.githubusercontent.com/62472486/207737917-12247897-9211-430e-81ff-2584104165ad.png)
+![banner (1)](https://github.com/Hugox96/Netflix_Analise/assets/62472486/3ffce98e-946d-4f4d-b7c6-997dd7cabdd0)
 
 
 
