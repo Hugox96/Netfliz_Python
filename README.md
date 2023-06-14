@@ -39,7 +39,7 @@ O dados com a base de dados da copa foram obtidos no site Kaggle e inspirandos p
 <b> 1º Gráfico: Relação entre a quantidade de filmes e séries produzidos </b>
 
 <p align="center">
-  <img src="grafico1.gif" alt="animated"/>
+  <img src="https://github.com/Hugox96/Netflix_Analise/files/11740953/2.Grafico.pdf" />
 </p>	
 
 <b> 2º Gráfico: Seleções que mais chegaram a final até 2014 </b>
