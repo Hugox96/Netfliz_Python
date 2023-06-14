@@ -30,13 +30,13 @@ O dados com a base de dados da copa foram obtidos no site Kaggle e inspirandos p
 
 
 ## :wrench: Tecnologias utilizadas
-* Python & Pandas;
+* Python, Pandas, Numpy & Matplotlib;
 * Visual Studio Code; 	
 * Excel. 	
 	
-## :ballot_box_with_check: Gráficos
+## :ballot_box_with_check: Visualização com gráficos
 
-<b> 1º Gráfico: Saldo de gols por edição até 2018 </b>
+<b> 1º Gráfico: Relação entre a quantidade de filmes e séries produzidos </b>
 
 <p align="center">
   <img src="grafico1.gif" alt="animated"/>
