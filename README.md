@@ -22,21 +22,17 @@ Neste projeto você encontrará uma análise de dados sobre os títulos produzid
 
 O processo de análise foi baseado em 3 etapas principais:
 
-* 1º Obtenção dos dados na plataforma <b> Kaggle </b>;
+* 1º Obtenção dos dados na plataforma <b> Kaggle </span> </b>;
 * 2º Filtragem e limpeza dos dados e criação dos dataframes para realizar a análise;
-* 3º Criação dos gráficos com a biblioteca <b> Seaborn </b> e Nuvem de palavras com a biblioteca <b> Wordcloud </b>
+* 3º Criação dos gráficos com a biblioteca <b> Seaborn </b> e Nuvem de palavras com a biblioteca <b> Wordcloud. </b>
 
-O dados com a base de dados da copa foram obtidos no site Kaggle: https://www.kaggle.com/datasets/abecklas/fifa-world-cup
+O dados com a base de dados da copa foram obtidos no site Kaggle e inspirandos pelo seguinte tutorial: https://www.kaggle.com/code/chirag9073/netflix-data-analysis
 
-Os gráficos animados foram criados pelo site Flourish: https://app.flourish.studio/projects
-
-O projeto foi inspirado no seguinte tutorial: https://www.youtube.com/watch?v=pa21vUQuaG8&t=2s
 
 ## :wrench: Tecnologias utilizadas
-* Google Collab;
 * Python & Pandas;
 * Visual Studio Code; 	
-* Excel 	
+* Excel. 	
 	
 ## :ballot_box_with_check: Gráficos
 
