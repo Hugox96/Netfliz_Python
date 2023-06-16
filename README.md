@@ -38,18 +38,19 @@ O dados com a base de dados da copa foram obtidos no site Kaggle e inspirandos p
 
 <b> 1º Gráfico: Relação entre a quantidade de filmes e séries produzidos </b>
 
-<p align="center">
+<p align="center" width="100px" heigth="100px">
+  <img src="https://github.com/Hugox96/Netflix_Analise/assets/62472486/49ff8322-c320-4190-9c58-80ddf13e9ae9" />
+</p>	
+
+<b> 2º Gráfico: Relação do Rating(Faixa Etária) com a quantidade produzida </b>
+
+<p align="center" width="100px" heigth="100px">
   <img src="https://github.com/Hugox96/Netflix_Analise/assets/62472486/8a545ced-36b1-4a25-ad5c-f5bb3c63bbd2" />
 </p>	
 
-<b> 2º Gráfico: Seleções que mais chegaram a final até 2014 </b>
+<b> 3º Gráfico: Nuvem de palavras dos países com as maiores produção </b>
 
-<p align="center">
-  <img src="grafico2.gif" alt="animated"/>
-</p>
+<p align="center" width="100px" heigth="100px">
+  <img src="https://github.com/Hugox96/Netflix_Analise/assets/62472486/281a1b47-5d30-4c78-ba55-af2fd31b1d8f" />
+</p>	
 
-<b> 3º Gráfico: Seleções que mais sediaram a copa até 2014 </b>
-
-<p align="center">
-  <img src="grafico3.gif" alt="animated"/>
-</p>
