@@ -39,7 +39,7 @@ O dados com a base de dados da copa foram obtidos no site Kaggle e inspirandos p
 <b> 1º Gráfico: Relação entre a quantidade de filmes e séries produzidos </b>
 
 <p align="center" width="100px" heigth="100px">
-  <img src="https://github.com/Hugox96/Netflix_Analise/assets/62472486/49ff8322-c320-4190-9c58-80ddf13e9ae9" />
+  <img src="https://github.com/Hugox96/Netflix_Analise/assets/62472486/23059637-3932-4639-80d6-01dc8a467e2e" />
 </p>	
 
 <b> 2º Gráfico: Relação do Rating(Faixa Etária) com a quantidade produzida </b>
