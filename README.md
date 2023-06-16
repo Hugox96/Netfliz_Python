@@ -30,16 +30,16 @@ O dados com a base de dados da copa foram obtidos no site Kaggle e inspirandos p
 
 
 ## :wrench: Tecnologias utilizadas
-* Python & Pandas;
+* Python, Pandas, Numpy & Matplotlib;
 * Visual Studio Code; 	
 * Excel. 	
 	
-## :ballot_box_with_check: Gráficos
+## :ballot_box_with_check: Visualização com gráficos
 
-<b> 1º Gráfico: Saldo de gols por edição até 2018 </b>
+<b> 1º Gráfico: Relação entre a quantidade de filmes e séries produzidos </b>
 
 <p align="center">
-  <img src="grafico1.gif" alt="animated"/>
+  <img src="https://github.com/Hugox96/Netflix_Analise/assets/62472486/8a545ced-36b1-4a25-ad5c-f5bb3c63bbd2" />
 </p>	
 
 <b> 2º Gráfico: Seleções que mais chegaram a final até 2014 </b>
