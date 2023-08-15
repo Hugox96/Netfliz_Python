@@ -17,6 +17,12 @@
  
 Neste projeto você encontrará uma análise de dados sobre os títulos produzidos pela **Netflix** no ano de 2019. As etapas do projeto são a preparação dos dados, filtragem e limpeza e a visualização dos dados com criação de gráficos e nuvens de palavras utilizando as bibliotecas <b> Numpy, Pandas e Matplotlib </b>.
 
+Com análise teremos:
+* Relação entre Filmes e Séries
+* Relação entre as faixas etários
+* Top 5 generos e Top 5 diretores
+* Nuvem de palavras
+
 
 ## 💻 Sobre o projeto
 
